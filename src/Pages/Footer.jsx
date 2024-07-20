@@ -32,11 +32,11 @@ const Footer = () => {
 							</ul>
 						</div>
 						<div className="">
-							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Edited By</h2>
+							<h2 class="mb-4 text-sm font-semibold uppercase text-white">EDITED BY</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
 									<a href="https://www.instagram.com/whoouuzii/" class="hover:underline ">
-										Fauzi
+										FAUZI
 									</a>
 								</li>
 								<li>
